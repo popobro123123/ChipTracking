@@ -4,6 +4,7 @@
 *.user
 *.suo
 *.db
+!Database/chiptracking.db
 *.db-shm
 *.db-wal
 *.log
